@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "141703051169",
+    "project_id": "flogapp-fe438",
+    "storage_bucket": "flogapp-fe438.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141703051169:android:9255bf58dac5bd635b7de0",
+        "android_client_info": {
+          "package_name": "com.example.flogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141703051169-1k05estqbliru3g0un0romtugbgpub1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpEag5Pxa-kGGZ2zMg9NeULl-F2z_dm_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141703051169-1k05estqbliru3g0un0romtugbgpub1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
